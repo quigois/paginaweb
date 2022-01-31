@@ -1,0 +1,23 @@
+*{
+	padding:0;
+	margin:0;
+}
+header{
+	width:100%;
+}
+#menu{
+	margin:auto;
+	padding-top:5px;
+}
+#menu ul a {
+	
+	color:white;
+	text-decoration: none;
+	font:bold 13px;
+	padding:12px 20px 12px 20px;
+	background:transparent;
+	border-bottom: 9px solid transparent;
+}
+#menu ul a: hover{
+	border-bottom: 9px solid red;
+}
